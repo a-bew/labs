@@ -28,9 +28,9 @@ Install the following if you do not have them on your computer system
 - You can download Visual Studio Code - Mac, Linux, Window IDE
 - Open your IDE and Clone the repository by running the command in the IDE terminal
 
-$ git clone https://github.com/a-bew/document-managment-system-api.git
+$ git clone https://github.com/a-bew/labs.git
 - In the same terminal run the following sequentially
-$ cd document-managment-system-api.git
+$ cd labs.git
 $ yarn add
 Alternative, run npm install
 Then start the app with the command in another shell in the IDE Terminal
