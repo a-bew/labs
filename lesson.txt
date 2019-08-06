@@ -1,0 +1,35 @@
+labs-exercise
+
+commit - snap-shot of your code at a given point in time
+
+develop/development
+
+staging a file by git add 
+
+creating a new branch -> git checkout -b develop
+
+git log
+
+updating a branch -> git merge features
+
+merge conflict
+
+git  commit --amend -m "create a first functiom
+
+
+
+SEQUEL - Structured English Query Language
+
+records are object in noSql Example: {'id': 1, 'name': 'cyn', email:'cyn@gmail.com', }
+
+
+Modern day architechecture
+
+
+window.innerHeight
+
+htmlDOM
+
+A car listing platform
+
+User story
